@@ -1,0 +1,12 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@trigger.dev/sdk": "4.4.2"
+  },
+  "devDependencies": {
+    "@trigger.dev/build": "4.4.2"
+  }
+}
